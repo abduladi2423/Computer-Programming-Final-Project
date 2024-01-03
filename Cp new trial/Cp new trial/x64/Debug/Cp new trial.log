@@ -1,0 +1,16 @@
+﻿  FileName.cpp
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(258,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(301,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(342,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(389,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(442,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(492,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(542,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(593,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(643,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(693,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(744,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(795,9): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(852,17): warning C4101: 'select': unreferenced local variable
+C:\Users\W10\source\repos\Cp new trial\Cp new trial\FileName.cpp(853,9): warning C4101: 'Player_stats': unreferenced local variable
+  Cp new trial.vcxproj -> C:\Users\W10\source\repos\Cp new trial\x64\Debug\Cp new trial.exe
